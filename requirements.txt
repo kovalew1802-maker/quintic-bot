@@ -1,5 +1,4 @@
 pyTelegramBotAPI
-sympy
 numpy
 matplotlib
 requests
