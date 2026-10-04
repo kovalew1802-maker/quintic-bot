@@ -1,3 +1,4 @@
+pyTelegramBotAPI
 sympy
 numpy
 matplotlib
